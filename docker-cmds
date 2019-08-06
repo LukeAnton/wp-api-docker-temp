@@ -1,0 +1,6 @@
+##Show Containers
+docker ps
+##Show Images
+docker images
+##Run
+docker-compose up -d
